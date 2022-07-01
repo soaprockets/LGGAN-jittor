@@ -15,7 +15,6 @@ This is the LGGAN of jittor edition, which for a competition of Jittor AI
 ## Requirement
   - python>=3.7
   - jittor>=3.1.4.11
-  - torchvision
   - dominate>=2.3.1
   - dill
   - scikit-image
@@ -28,7 +27,7 @@ The Pretrained model is already open,you can refer [this](https://pan.baidu.com/
 
 ## Trainset
 1. Prepare dataset.
-2. Change several parameters and then run `train_[dataset].sh` for training.
+2. Change several parameters and then run `train.py` for training.
 There are many options you can specify. To specify the number of GPUs to utilize, use `--gpu_ids`. If you want to use the second and third GPUs for example, use `--gpu_ids 1,2`.
 3. Testing is similar to testing pretrained models. Use `--results_dir` to specify the output directory. `--how_many` will specify the maximum number of images to generate. By default, it loads the latest checkpoint. It can be changed using `--which_epoch`.
 

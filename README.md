@@ -14,7 +14,7 @@ This is the LGGAN of jittor edition, which for a competition of Jittor AI
 
 ## Requirement
   - python>=3.7
-  - jittor>=3.1.4
+  - jittor>=1.3.4
   - dominate>=2.3.1
   - dill
   - scikit-image

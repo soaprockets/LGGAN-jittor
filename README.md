@@ -24,7 +24,7 @@ This is the LGGAN of jittor edition, which for a competition of Jittor AI
 You can use the custom.py to load your own dataset for training,you can refer [this](https://cloud.tsinghua.edu.cn/f/1d734cbb68b545d6bdf2/?dl=1) to download the dataset
 
 ## Pretrained
-The Pretrained model is already open,you can refer [this](链接：https://pan.baidu.com/s/1Cncz5dS_0CRG_n-AHSOJWQ?pwd=acmz 提取码：acmz --来自百度网盘超级会员V5的分享) to get it
+The Pretrained model is already open,you can refer [this](https://pan.baidu.com/s/1Cncz5dS_0CRG_n-AHSOJWQ?pwd=acmz) to get it
 
 ## Trainset
 1. Prepare dataset.

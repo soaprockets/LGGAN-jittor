@@ -1,16 +1,30 @@
-## Contents
+## 第二届清华人工智能挑战赛A赛（LGGAN）
+成员：华东理工大学 梁磊、俞贤康、何旭峰
+指导教师：华东理工大学 陈志华教授；上海交通大学 盛斌教授
 
+## Contents
   - [Introduce](#Introduce)
+  - [Requirement](#Requirement)
   - [Dataset Preparation](#Dataset-Preparation)
+  - [Pretrained](Pretrained)
   - [Trainset](#trainset)
   
-  
 ## Introduce
+This is the LGGAN of jittor edition, which for a competition of Jittor AI
 
-this is the LGGAN of jittor edition, which for a competition of Jittor AI
+## Requirement
+  - python>=3.7
+  - jittor>=3.1.4.11
+  - torchvision
+  - dominate>=2.3.1
+  - dill
+  - scikit-image
 
 ## Dataset Preparation
-you can use the custom.py to load your own dataset for training
+You can use the custom.py to load your own dataset for training,you can refer [this](https://cloud.tsinghua.edu.cn/f/1d734cbb68b545d6bdf2/?dl=1) to download the dataset
+
+## Pretrained
+The Pretrained model is already open,you can refer [this](链接：https://pan.baidu.com/s/1Cncz5dS_0CRG_n-AHSOJWQ?pwd=acmz 提取码：acmz --来自百度网盘超级会员V5的分享) to get it
 
 ## Trainset
 1. Prepare dataset.
